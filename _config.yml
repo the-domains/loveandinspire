@@ -1,0 +1,14 @@
+layout_spectrum: 0.5936651
+typography_spectrum: 0.1577081
+color:
+  saturation: 0.4643992
+  lightness: 0.6515346
+  brandStrength: 0.308015
+  rhythmicContrast: 0.9053087
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: LoveandInspire
